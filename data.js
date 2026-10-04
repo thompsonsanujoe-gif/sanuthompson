@@ -5,8 +5,10 @@ const HERO_SLIDES = [
   { img: 'assets/hero/hero-5.jpg', label: '02 — WEDDINGS', focus: 'center' },
   { img: 'assets/hero/hero-1.jpg', label: '03 — PORTRAITS', focus: 'center 18%' },
   { img: 'assets/hero/hero-6.jpg', label: '04 — FASHION', focus: 'center 30%' },
-  { img: 'assets/hero/hero-2.jpg', label: '05 — EVERYDAY LIFE', focus: 'center' },
-  { img: 'assets/hero/hero-3.jpg', label: '06 — COMMERCIAL', focus: 'center 70%' },
+  { img: 'assets/hero/hero-8.jpg', label: '05 — EVERYDAY LIFE', focus: 'center 35%' },
+  { img: 'assets/hero/hero-7.jpg', label: '06 — COMMERCIAL', focus: 'center' },
+  { img: 'assets/hero/hero-2.jpg', label: '07 — EVENTS', focus: 'center' },
+  { img: 'assets/hero/hero-3.jpg', label: '08 — CONCERTS', focus: 'center 70%' },
 ];
 
 // category key -> { folder (asset filename prefix), label, count, title, location, description }
