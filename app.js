@@ -99,7 +99,7 @@ function renderHome(afterRender) {
     <section class="hero" id="heroSlider">
       ${HERO_SLIDES.map((s, i) => `
         <div class="hero-slide ${i === 0 ? 'active' : ''}" data-i="${i}">
-          <img src="${s.img}" alt="${s.label}" />
+          <img src="${s.img}" alt="${s.label}" style="object-position:${s.focus || 'center'};" />
         </div>
       `).join('')}
       <div class="hero-meta">

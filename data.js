@@ -1,11 +1,11 @@
 // ---- Content data for Sanu Thompson's portfolio ----
 
 const HERO_SLIDES = [
-  { img: 'assets/hero/hero-5.jpg', label: '01 — WEDDINGS' },
-  { img: 'assets/hero/hero-1.jpg', label: '02 — PORTRAITS' },
-  { img: 'assets/hero/hero-2.jpg', label: '03 — EVERYDAY LIFE' },
-  { img: 'assets/hero/hero-3.jpg', label: '04 — COMMERCIAL' },
-  { img: 'assets/hero/hero-4.jpg', label: '05 — PLACES' },
+  { img: 'assets/hero/hero-4.jpg', label: '01 — PLACES', focus: 'center' },
+  { img: 'assets/hero/hero-5.jpg', label: '02 — WEDDINGS', focus: 'center' },
+  { img: 'assets/hero/hero-1.jpg', label: '03 — PORTRAITS', focus: 'center 18%' },
+  { img: 'assets/hero/hero-2.jpg', label: '04 — EVERYDAY LIFE', focus: 'center' },
+  { img: 'assets/hero/hero-3.jpg', label: '05 — COMMERCIAL', focus: 'center 25%' },
 ];
 
 // category key -> { folder (asset filename prefix), label, count, title, location, description }
