@@ -418,15 +418,15 @@ function renderContact() {
         </div>
         <div class="block">
           <span class="label">Email</span>
-          <p>hello@sanuthompson.com</p>
+          <p>alphaandomega1708@gmail.com</p>
         </div>
         <div class="block">
           <span class="label">Phone</span>
-          <p>+91 00000 00000</p>
+          <p>+91 99627 51782</p>
         </div>
         <div class="block">
           <span class="label">Instagram</span>
-          <p>@sanuthompson</p>
+          <p>@sanujoethompson</p>
         </div>
       </div>
     </div>
@@ -463,8 +463,8 @@ function renderFooter() {
       </div>
       <div class="footer-col">
         <h4>Connect</h4>
-        <a href="https://instagram.com" target="_blank" rel="noopener">Instagram</a>
-        <a href="mailto:hello@sanuthompson.com">Email</a>
+        <a href="https://www.instagram.com/sanujoethompson/" target="_blank" rel="noopener">Instagram</a>
+        <a href="mailto:alphaandomega1708@gmail.com">Email</a>
       </div>
     </div>
     <div class="footer-bottom">
